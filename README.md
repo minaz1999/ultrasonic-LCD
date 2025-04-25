@@ -55,7 +55,10 @@ o	پین Echo سنسور را با استفاده از سیم مخابراتی �
 
 
 
-Uploading video5785362596009875851.mp4…
+
+
+https://github.com/user-attachments/assets/de1c93bf-e4c0-45d2-9163-e6d5ab38ef91
+
 
 ![ultrasonic   LCD](https://github.com/user-attachments/assets/53f448c7-2675-454a-8b85-5d09ec9ad670)
 [ultrasonic & LCD.pdf](https://github.com/user-attachments/files/19916750/ultrasonic.LCD.pdf)
